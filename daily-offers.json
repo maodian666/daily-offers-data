@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-17T00:00:00.000Z",
+  "site": {
+    "id": "site-daily-offers",
+    "site_key": "daily-offers",
+    "name": "每日优惠信息合集",
+    "title": "每日优惠信息合集",
+    "enabled": 1
+  },
+  "categories": [],
+  "independent_platforms": [],
+  "top_links": []
+}
