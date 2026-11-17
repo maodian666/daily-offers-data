@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updated_at": "2026-11-17T15:08:52.411Z",
+  "version": 6,
+  "updated_at": "2026-11-17T15:09:09.045Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -14,7 +14,17 @@
       "name": "外卖",
       "sort_order": 0,
       "enabled": 1,
-      "platforms": []
+      "platforms": [
+        {
+          "id": "3d054b51-98e1-46db-9fff-001799a4ad1b",
+          "category_id": "6b2b6c72-df19-4998-a4e4-87ee32afe471",
+          "name": "京东",
+          "preview_limit": 3,
+          "sort_order": 0,
+          "enabled": 1,
+          "items": []
+        }
+      ]
     }
   ],
   "independent_platforms": [],
