@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updated_at": "2026-11-17T08:48:51.050Z",
+  "version": 4,
+  "updated_at": "2026-11-17T08:51:26.062Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -10,13 +10,5 @@
   },
   "categories": [],
   "independent_platforms": [],
-  "top_links": [
-    {
-      "id": "9a342774-314a-4f04-9f00-f1a5a8cceee5",
-      "name": "临时验收链接B",
-      "url": "https://example.com/netlify-free-verification",
-      "sort_order": 999,
-      "enabled": 1
-    }
-  ]
+  "top_links": []
 }
