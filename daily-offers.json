@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updated_at": "2026-11-17T15:09:09.045Z",
+  "version": 7,
+  "updated_at": "2026-11-17T15:09:19.766Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -21,6 +21,15 @@
           "name": "京东",
           "preview_limit": 3,
           "sort_order": 0,
+          "enabled": 1,
+          "items": []
+        },
+        {
+          "id": "9f1f494f-41d3-45c6-974f-279946ccbb33",
+          "category_id": "6b2b6c72-df19-4998-a4e4-87ee32afe471",
+          "name": "淘宝闪购",
+          "preview_limit": 3,
+          "sort_order": 1,
           "enabled": 1,
           "items": []
         }
