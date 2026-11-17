@@ -1,6 +1,6 @@
 {
-  "version": 10,
-  "updated_at": "2026-11-17T15:10:41.585Z",
+  "version": 11,
+  "updated_at": "2026-11-17T15:11:09.922Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -47,6 +47,23 @@
               "text": null,
               "label": "叠红包",
               "value": "￥ShX963zAjPC￥/ HU7405",
+              "url": ""
+            },
+            {
+              "id": "acba578b-ccbd-4160-8318-12a12fa78af0",
+              "platform_id": "9f1f494f-41d3-45c6-974f-279946ccbb33",
+              "type": "code",
+              "sort_order": 1,
+              "enabled": 1,
+              "app_url": "",
+              "claim_url": "https://market.m.taobao.com/app/starlink/wakeup-transit/pages/download?star_id=8339&slk_force_set_request=true&tfPos=h5&alsc_exsrc=ES0007076172&scene=e0bc3a5c19de4181afbcbe5348561cb2",
+              "app_label": "",
+              "claim_label": "领取",
+              "action_mode": "none",
+              "action_label": null,
+              "text": null,
+              "label": "来闪购一下",
+              "value": "￥ATbr64ckGHZ￥/ HU7405",
               "url": ""
             }
           ]
