@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "updated_at": "2026-11-17T15:13:50.511Z",
+  "version": 14,
+  "updated_at": "2026-11-17T15:16:33.990Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -93,7 +93,25 @@
           "preview_limit": 3,
           "sort_order": 2,
           "enabled": 1,
-          "items": []
+          "items": [
+            {
+              "id": "14600e45-4549-49ad-ac2f-74ca57a274b2",
+              "platform_id": "7e7ca94e-1f49-405c-8727-ec28c6099469",
+              "type": "code",
+              "sort_order": 0,
+              "enabled": 1,
+              "app_url": "",
+              "claim_url": "",
+              "app_label": "",
+              "claim_label": "",
+              "action_mode": "none",
+              "action_label": null,
+              "text": null,
+              "label": "外卖节",
+              "value": "1来美团，吃得更好，生活更好❤️复制整条信息，打开👉美团👈 http:/💰2pOTgxNTcxYzg💰",
+              "url": ""
+            }
+          ]
         }
       ]
     }
