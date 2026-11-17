@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updated_at": "2026-11-17T08:51:26.062Z",
+  "version": 5,
+  "updated_at": "2026-11-17T15:08:52.411Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -8,7 +8,15 @@
     "title": "每日优惠信息合集",
     "enabled": 1
   },
-  "categories": [],
+  "categories": [
+    {
+      "id": "6b2b6c72-df19-4998-a4e4-87ee32afe471",
+      "name": "外卖",
+      "sort_order": 0,
+      "enabled": 1,
+      "platforms": []
+    }
+  ],
   "independent_platforms": [],
   "top_links": []
 }
