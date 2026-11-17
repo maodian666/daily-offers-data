@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "updated_at": "2026-11-17T15:17:32.717Z",
+  "version": 17,
+  "updated_at": "2026-11-17T15:18:25.072Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -38,6 +38,23 @@
               "text": null,
               "label": "惊喜红包",
               "value": "！WEJ2cF3MfTBeBfuM！ MF8555",
+              "url": ""
+            },
+            {
+              "id": "f80d9bce-b7d9-497d-9140-c8935a022ce1",
+              "platform_id": "3d054b51-98e1-46db-9fff-001799a4ad1b",
+              "type": "code",
+              "sort_order": 0,
+              "enabled": 1,
+              "app_url": "openapp.jdmobile://virtual?params=%7B%22category%22%3A%22jump%22%2C%22des%22%3A%22union%22%2C%22url%22%3A%22https%3A%5C%2F%5C%2Funion-click.jd.com%5C%2Fjdc%3Fe%3D1003913822%26p%3DJF8BAhkJK1olXDYDZBoCUBVIMzZNXhpXVhgcDQAZS1RMVnBaRQcLDVBUFwoLWA5PXTB6QgtKAlJfNRoOFhlOUzBXTwYbD19SCwEJVS5fQjsERwNcP15dAgMJehJHXDBcRkxXD1JdAFIfUBRBXjsfSxhDHxpACA4AVTJJXzt0RQ5RAFJ6AVJYC0kWC3haQgtKAlJfLAtRCEkVBWgfWRxHOE5DAFIAWwkAWjlQBwlUH35AFhoJbRVTUTZpRQNKGH5XWC08FEgWAGsJElscQQcDVV5KUR1PHz1JWS1WDVVnChoPUSpJWzBNYw4ZLmceV19eDEsUAG0UGloUXhFdAAoIdQobRixMT0xWCVFWFxwDTBlDDz1JWUxXA0JBBgo6WBZTV2MKEloRWA4VFwoNVS5PXzt1RQkZXRFbDAsJdxtQD28fQgNACW5_PyVRCFxSWypVT1cBKQIWJFtJAEwDd2scEi4BVQEVCwoLVR9FRhFJTwRuCGNcLQAZSxZfVTEEG2tXPAJGKA0Ify4WGRxPYB4cDnVwFSEbBEcnAl8IGloWXQYHV1ZeOEITU2cNSV5GXA5WXFZbAEJFVzoNK1sVbU1sVW5cOEsRC2oAGFIQXw8CUV9tCEMQMzZYRA1MBQcDVG5tOEgnA24JGVMVXw8BV25tC0MnAF9WdVoSWFNQBwwIZhdRWSsIWxpPMw8LVFxfDEknAW4JGVklbTYyVG5tCXs%22%2C%22unionSource%22%3A%22%22%2C%22keplerID%22%3A%22%22%2C%22keplerFrom%22%3A1%7D",
+              "claim_url": "",
+              "app_label": "打开京东",
+              "claim_label": "",
+              "action_mode": "none",
+              "action_label": null,
+              "text": null,
+              "label": "惊喜红包2",
+              "value": "！TE9lKEbxfun4IAKj！ CA1507",
               "url": ""
             }
           ]
