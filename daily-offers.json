@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "updated_at": "2026-11-17T15:09:28.716Z",
+  "version": 9,
+  "updated_at": "2026-11-17T15:10:33.288Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -31,7 +31,25 @@
           "preview_limit": 3,
           "sort_order": 1,
           "enabled": 1,
-          "items": []
+          "items": [
+            {
+              "id": "a4488cf4-a386-40a2-9a44-69d92481e30d",
+              "platform_id": "9f1f494f-41d3-45c6-974f-279946ccbb33",
+              "type": "code",
+              "sort_order": 0,
+              "enabled": 1,
+              "app_url": "https://market.m.taobao.com/app/starlink/wakeup-transit/pages/download?star_id=9249&slk_force_set_request=true&scene=917079653b73416b883f63d5a3e1d59c",
+              "claim_url": "",
+              "app_label": "",
+              "claim_label": "领取",
+              "action_mode": "none",
+              "action_label": null,
+              "text": null,
+              "label": "叠红包",
+              "value": "￥ShX963zAjPC￥/ HU7405",
+              "url": ""
+            }
+          ]
         },
         {
           "id": "7e7ca94e-1f49-405c-8727-ec28c6099469",
