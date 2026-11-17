@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updated_at": "2026-11-17T15:09:19.766Z",
+  "version": 8,
+  "updated_at": "2026-11-17T15:09:28.716Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -30,6 +30,15 @@
           "name": "淘宝闪购",
           "preview_limit": 3,
           "sort_order": 1,
+          "enabled": 1,
+          "items": []
+        },
+        {
+          "id": "7e7ca94e-1f49-405c-8727-ec28c6099469",
+          "category_id": "6b2b6c72-df19-4998-a4e4-87ee32afe471",
+          "name": "美团",
+          "preview_limit": 3,
+          "sort_order": 2,
           "enabled": 1,
           "items": []
         }
