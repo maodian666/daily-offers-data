@@ -1,6 +1,6 @@
 {
-  "version": 36,
-  "updated_at": "2026-11-18T06:39:12.636Z",
+  "version": 37,
+  "updated_at": "2026-11-18T06:40:12.158Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -264,6 +264,23 @@
               "label": null,
               "value": null,
               "url": "https://yoourl.net/link/10007206afd47cac0c031000e2iNFEqt"
+            },
+            {
+              "id": "ad61af14-a39c-43d7-9c69-84663b2ee5ef",
+              "platform_id": "825ae8cf-06ba-4109-89f3-469d3ac9a107",
+              "type": "link",
+              "sort_order": 1,
+              "enabled": 1,
+              "app_url": "",
+              "claim_url": "https://1.yoourl.com/link/10006956ae60adadd2971000e8YsdOAS",
+              "app_label": "",
+              "claim_label": "",
+              "action_mode": "none",
+              "action_label": null,
+              "text": "领券2",
+              "label": null,
+              "value": null,
+              "url": "https://1.yoourl.com/link/10006956ae60adadd2971000e8YsdOAS"
             }
           ]
         }
