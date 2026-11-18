@@ -1,6 +1,6 @@
 {
-  "version": 20,
-  "updated_at": "2026-11-18T01:23:38.210Z",
+  "version": 21,
+  "updated_at": "2026-11-18T01:25:13.829Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -160,6 +160,23 @@
               "text": null,
               "label": "甄选好店大额优惠",
               "value": "1来美团，吃得更好，生活更好❤️复制整条信息，打开👉美团👈 http:/💰46NmI1Y2ZmYjU💰",
+              "url": ""
+            },
+            {
+              "id": "a953fa13-4831-47ab-a5e7-b444d35a53d4",
+              "platform_id": "7e7ca94e-1f49-405c-8727-ec28c6099469",
+              "type": "code",
+              "sort_order": 3,
+              "enabled": 1,
+              "app_url": "imeituan://www.meituan.com/takeout/browser?inner_url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D2%26p%3DNkhcJL1zn4Hd&lch=cps:mtlm:10:b9831c934ad648519d5bf0be5e24eaad:85a94c4b09e99798ced4:273:1696797023346810929",
+              "claim_url": "https://1.yoourl.com/link/10006156af999bf543471000iWFVMOwJ",
+              "app_label": "打开美团",
+              "claim_label": "领取",
+              "action_mode": "none",
+              "action_label": null,
+              "text": null,
+              "label": "闪购红包天天领",
+              "value": "1来美团，吃得更好，生活更好❤️复制整条信息，打开👉美团👈 http:/💰h6MjUyOGVjODk💰",
               "url": ""
             }
           ]
