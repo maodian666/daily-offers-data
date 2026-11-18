@@ -1,6 +1,6 @@
 {
-  "version": 19,
-  "updated_at": "2026-11-17T15:18:51.091Z",
+  "version": 20,
+  "updated_at": "2026-11-18T01:23:38.210Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -55,6 +55,23 @@
               "text": null,
               "label": "惊喜红包2",
               "value": "！TE9lKEbxfun4IAKj！ CA1507",
+              "url": ""
+            },
+            {
+              "id": "a31f8453-cc34-4aa3-8253-5696f2bcf2a2",
+              "platform_id": "3d054b51-98e1-46db-9fff-001799a4ad1b",
+              "type": "code",
+              "sort_order": 3,
+              "enabled": 1,
+              "app_url": "openapp.jdmobile://virtual?params=%7B%22category%22%3A%22jump%22%2C%22des%22%3A%22union%22%2C%22url%22%3A%22https%3A%5C%2F%5C%2Funion-click.jd.com%5C%2Fjdc%3Fe%3D1003913822%26p%3DJF8BAP8JK1olXDYDZBoCUBVIMzZNXhpXVhgcFR0DXR9QHDMXQA4KD1heSgINVRYJUz1NQxxBQ2FyDxxfTwpHSx8MG1lxG09_UDcvDR9hcAZIc0VNAlNWHUEETRdKMxYSfDxLFgVGNDwNYS53ey5QHw5GXXYOWG5cOEsWAm4IEl0dXg8yXVoNAE5FBjwJEw8dVQAKXQwJXU4nA284UDUUbQcyVFhVDUMQBm4LGFgWXzYCXFltUx55Bm0IGlpHD1QCU1kNDnsnM2w4G1oUXw4CVldeC3snAV8LKwV7XAEEVwteXB55XylVTFJCB1NsVF5eCUsfBm44GVoUXwQyZG5tCHsnAl8%22%2C%22unionSource%22%3A%22%22%2C%22keplerID%22%3A%22%22%2C%22keplerFrom%22%3A1%7D",
+              "claim_url": "",
+              "app_label": "打开京东",
+              "claim_label": "",
+              "action_mode": "none",
+              "action_label": null,
+              "text": null,
+              "label": "领券中心会场",
+              "value": "！N63LtFYfoOa8MmGO！ CA1393",
               "url": ""
             }
           ]
