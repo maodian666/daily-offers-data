@@ -1,6 +1,6 @@
 {
-  "version": 34,
-  "updated_at": "2026-11-18T06:36:59.507Z",
+  "version": 35,
+  "updated_at": "2026-11-18T06:37:12.546Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -239,7 +239,17 @@
       "name": "打车",
       "sort_order": 2,
       "enabled": 1,
-      "platforms": []
+      "platforms": [
+        {
+          "id": "825ae8cf-06ba-4109-89f3-469d3ac9a107",
+          "category_id": "90562535-2601-49b9-916b-9f4d02e891d2",
+          "name": "滴滴",
+          "preview_limit": 3,
+          "sort_order": 0,
+          "enabled": 1,
+          "items": []
+        }
+      ]
     }
   ],
   "independent_platforms": [],
