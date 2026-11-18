@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "updated_at": "2026-11-18T01:28:55.353Z",
+  "version": 26,
+  "updated_at": "2026-11-18T01:29:35.811Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -229,6 +229,23 @@
               "label": null,
               "value": null,
               "url": "https://1.yoourl.net/link/10006236afcff329796e1000SbkS8WsY"
+            },
+            {
+              "id": "91e7b892-b6fb-41f6-ac06-06142787be16",
+              "platform_id": "7e7ca94e-1f49-405c-8727-ec28c6099469",
+              "type": "code",
+              "sort_order": 7,
+              "enabled": 1,
+              "app_url": "imeituan://www.meituan.com/takeout/browser?inner_url=https%3A%2F%2Fclick.meituan.com%2Ft%3Ft%3D1%26c%3D2%26p%3D2kX9UL1zk4Mf&lch=cps:mtlm:10:b9831c934ad648519d5bf0be5e24eaad:85a94c4b09e99798ced4:309:1696797023346810929",
+              "claim_url": "",
+              "app_label": "打开美团",
+              "claim_label": "",
+              "action_mode": "none",
+              "action_label": null,
+              "text": null,
+              "label": "吃喝玩乐",
+              "value": "1来美团，吃得更好，生活更好❤️复制整条信息，打开👉美团👈 http:/💰4uNzUxNzYyMmI💰",
+              "url": ""
             }
           ]
         }
