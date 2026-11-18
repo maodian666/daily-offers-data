@@ -1,6 +1,6 @@
 {
-  "version": 39,
-  "updated_at": "2026-11-18T06:42:13.842Z",
+  "version": 40,
+  "updated_at": "2026-11-18T06:44:00.520Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -285,6 +285,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1225047a-edc6-44b7-8721-bd03c557f4e3",
+      "name": "酒店",
+      "sort_order": 3,
+      "enabled": 1,
+      "platforms": []
     }
   ],
   "independent_platforms": [],
