@@ -1,6 +1,6 @@
 {
-  "version": 26,
-  "updated_at": "2026-11-18T01:29:35.811Z",
+  "version": 27,
+  "updated_at": "2026-11-18T01:30:16.849Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -205,10 +205,10 @@
               "app_url": "",
               "claim_url": "https://1.yoourl.net/link/10015356afcfeb6b8ea41002eWhSQfv4",
               "app_label": "",
-              "claim_label": "",
+              "claim_label": "领取",
               "action_mode": "none",
               "action_label": null,
-              "text": "领取",
+              "text": "商家隐藏券",
               "label": null,
               "value": null,
               "url": "https://1.yoourl.net/link/10015356afcfeb6b8ea41002eWhSQfv4"
