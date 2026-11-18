@@ -1,6 +1,6 @@
 {
-  "version": 22,
-  "updated_at": "2026-11-18T01:26:03.530Z",
+  "version": 23,
+  "updated_at": "2026-11-18T01:27:13.368Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -195,6 +195,23 @@
               "label": "美团神券包",
               "value": "1来美团，吃得更好，生活更好❤️复制整条信息，打开👉美团👈 http:/💰wkNmFjNDc0ZTk💰",
               "url": ""
+            },
+            {
+              "id": "39b5c4e9-7913-4c83-888b-b382e135f93d",
+              "platform_id": "7e7ca94e-1f49-405c-8727-ec28c6099469",
+              "type": "link",
+              "sort_order": 5,
+              "enabled": 1,
+              "app_url": "",
+              "claim_url": "https://1.yoourl.net/link/10015356afcfeb6b8ea41002eWhSQfv4",
+              "app_label": "",
+              "claim_label": "",
+              "action_mode": "none",
+              "action_label": null,
+              "text": "领取",
+              "label": null,
+              "value": null,
+              "url": "https://1.yoourl.net/link/10015356afcfeb6b8ea41002eWhSQfv4"
             }
           ]
         }
