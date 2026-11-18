@@ -1,6 +1,6 @@
 {
-  "version": 32,
-  "updated_at": "2026-11-18T06:35:58.780Z",
+  "version": 33,
+  "updated_at": "2026-11-18T06:36:43.046Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -236,5 +236,13 @@
     }
   ],
   "independent_platforms": [],
-  "top_links": []
+  "top_links": [
+    {
+      "id": "60040e26-487d-4117-8bac-483ba55835d5",
+      "name": "低价流量卡",
+      "url": "https://sd.sddalanggou.cn/ProductEn/Index/422622e32fc2e076",
+      "sort_order": 1,
+      "enabled": 1
+    }
+  ]
 }
