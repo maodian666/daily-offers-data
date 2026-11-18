@@ -1,6 +1,6 @@
 {
-  "version": 40,
-  "updated_at": "2026-11-18T06:44:00.520Z",
+  "version": 41,
+  "updated_at": "2026-11-18T06:44:17.499Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -291,7 +291,17 @@
       "name": "酒店",
       "sort_order": 3,
       "enabled": 1,
-      "platforms": []
+      "platforms": [
+        {
+          "id": "e8b71eaa-cc9d-42d2-b0c6-fe94e960cd0e",
+          "category_id": "1225047a-edc6-44b7-8721-bd03c557f4e3",
+          "name": "飞猪",
+          "preview_limit": 3,
+          "sort_order": 0,
+          "enabled": 1,
+          "items": []
+        }
+      ]
     }
   ],
   "independent_platforms": [],
