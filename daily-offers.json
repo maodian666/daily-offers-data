@@ -1,6 +1,6 @@
 {
-  "version": 24,
-  "updated_at": "2026-11-18T01:28:50.649Z",
+  "version": 25,
+  "updated_at": "2026-11-18T01:28:55.353Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -217,7 +217,7 @@
               "id": "d86189ae-b6e2-45a4-a3d0-52a6c2659cf8",
               "platform_id": "7e7ca94e-1f49-405c-8727-ec28c6099469",
               "type": "link",
-              "sort_order": 9,
+              "sort_order": 6,
               "enabled": 1,
               "app_url": "",
               "claim_url": "https://1.yoourl.net/link/10006236afcff329796e1000SbkS8WsY",
