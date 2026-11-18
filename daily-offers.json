@@ -1,6 +1,6 @@
 {
-  "version": 21,
-  "updated_at": "2026-11-18T01:25:13.829Z",
+  "version": 22,
+  "updated_at": "2026-11-18T01:26:03.530Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -177,6 +177,23 @@
               "text": null,
               "label": "闪购红包天天领",
               "value": "1来美团，吃得更好，生活更好❤️复制整条信息，打开👉美团👈 http:/💰h6MjUyOGVjODk💰",
+              "url": ""
+            },
+            {
+              "id": "d41a2fdc-d7b8-47ee-a75a-9b32cbd7bebb",
+              "platform_id": "7e7ca94e-1f49-405c-8727-ec28c6099469",
+              "type": "code",
+              "sort_order": 4,
+              "enabled": 1,
+              "app_url": "",
+              "claim_url": "",
+              "app_label": "",
+              "claim_label": "",
+              "action_mode": "none",
+              "action_label": null,
+              "text": null,
+              "label": "美团神券包",
+              "value": "1来美团，吃得更好，生活更好❤️复制整条信息，打开👉美团👈 http:/💰wkNmFjNDc0ZTk💰",
               "url": ""
             }
           ]
