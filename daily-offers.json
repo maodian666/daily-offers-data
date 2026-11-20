@@ -1,6 +1,6 @@
 {
-  "version": 41,
-  "updated_at": "2026-11-18T06:44:17.499Z",
+  "version": 42,
+  "updated_at": "2026-11-20T03:17:31.829Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -299,7 +299,25 @@
           "preview_limit": 3,
           "sort_order": 0,
           "enabled": 1,
-          "items": []
+          "items": [
+            {
+              "id": "0af0b97b-7730-4a79-ad40-dec790a2d80e",
+              "platform_id": "e8b71eaa-cc9d-42d2-b0c6-fe94e960cd0e",
+              "type": "link",
+              "sort_order": 0,
+              "enabled": 1,
+              "app_url": "",
+              "claim_url": "https://1.yoourl.com/link/10010066affbbae967da10028YfsiwKa",
+              "app_label": "",
+              "claim_label": "",
+              "action_mode": "none",
+              "action_label": null,
+              "text": "酒店专享红包",
+              "label": null,
+              "value": null,
+              "url": "https://1.yoourl.com/link/10010066affbbae967da10028YfsiwKa"
+            }
+          ]
         }
       ]
     }
