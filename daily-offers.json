@@ -1,6 +1,6 @@
 {
-  "version": 43,
-  "updated_at": "2026-11-20T03:20:04.803Z",
+  "version": 44,
+  "updated_at": "2026-11-20T03:22:49.868Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -99,23 +99,6 @@
               "text": null,
               "label": "来闪购一下",
               "value": "￥ATbr64ckGHZ￥/ HU7405",
-              "url": ""
-            },
-            {
-              "id": "3b121246-9322-4e0e-abe0-f49ed444ccbb",
-              "platform_id": "9f1f494f-41d3-45c6-974f-279946ccbb33",
-              "type": "code",
-              "sort_order": 3,
-              "enabled": 1,
-              "app_url": "",
-              "claim_url": "https://m.duanqu.com/?_ariver_appid=8251537&page=plugin-private%3A%2F%2F2021003183669766%2Fpages%2Fwh-coupon-guide%2Findex%3Ffrom%3Dminiapp.taobao%26channelInfo%3D%7B%22subSubChannel%22%3A%22miniapp.taobao.et%22%7D%26alsc_exsrc%3DES0007485972%26scene%3Df1d4a7a029c04c16936f586999429990",
-              "app_label": "",
-              "claim_label": "领取",
-              "action_mode": "none",
-              "action_label": null,
-              "text": null,
-              "label": "天天领红包",
-              "value": "￥QvdP64ONo9n￥/ HU7405",
               "url": ""
             }
           ]
