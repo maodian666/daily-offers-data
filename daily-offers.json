@@ -1,6 +1,6 @@
 {
-  "version": 44,
-  "updated_at": "2026-11-20T03:22:49.868Z",
+  "version": 45,
+  "updated_at": "2026-11-20T03:23:22.397Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -99,6 +99,23 @@
               "text": null,
               "label": "来闪购一下",
               "value": "￥ATbr64ckGHZ￥/ HU7405",
+              "url": ""
+            },
+            {
+              "id": "95951551-f42d-4ca9-9540-33fb3bdda59f",
+              "platform_id": "9f1f494f-41d3-45c6-974f-279946ccbb33",
+              "type": "code",
+              "sort_order": 3,
+              "enabled": 1,
+              "app_url": "tbopen://m.taobao.com/tbopen/index.html?&action=ali.open.nav&module=h5&h5Url=https%3A%2F%2Ftb.ele.me%2Fwow%2Fz%2Funiapp%2F1100497%2Fad-miniapp%2Fet-union%2Fhome%3Fwh_weex%3Dtrue%26weex_mode%3Ddom%26channelInfo%3D%257B%2522subSubChannel%2522%253A%2522miniapp.taobao.et%2522%257D%26alsc_exsrc%3DES0007485972%26scene%3D47f6ec4f044d41be9111d1da210cca7d",
+              "claim_url": "",
+              "app_label": "打开淘宝",
+              "claim_label": "",
+              "action_mode": "none",
+              "action_label": null,
+              "text": null,
+              "label": "猫猫品牌日",
+              "value": "￥lfOn6Yx5L4M￥/ HU7405",
               "url": ""
             }
           ]
