@@ -1,6 +1,6 @@
 {
-  "version": 52,
-  "updated_at": "2026-11-23T12:04:07.366Z",
+  "version": 53,
+  "updated_at": "2026-11-23T12:06:51.886Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -376,7 +376,25 @@
           "preview_limit": 3,
           "sort_order": 1,
           "enabled": 1,
-          "items": []
+          "items": [
+            {
+              "id": "81599da3-a47d-4c98-be69-ea8827489511",
+              "platform_id": "116e9c1a-b500-44b5-bdb0-643f10dfe814",
+              "type": "link",
+              "sort_order": 0,
+              "enabled": 1,
+              "app_url": "",
+              "claim_url": "https://1.yoourl.com/link/10015376aee83b35f8cc1000mIr1OIiD",
+              "app_label": "",
+              "claim_label": "",
+              "action_mode": "none",
+              "action_label": null,
+              "text": "天天领打车优惠",
+              "label": null,
+              "value": null,
+              "url": "https://1.yoourl.com/link/10015376aee83b35f8cc1000mIr1OIiD"
+            }
+          ]
         }
       ]
     },
