@@ -1,6 +1,6 @@
 {
-  "version": 49,
-  "updated_at": "2026-11-20T03:33:11.444Z",
+  "version": 50,
+  "updated_at": "2026-11-23T12:00:57.897Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -150,6 +150,23 @@
               "text": null,
               "label": "夜宵专享会场",
               "value": "￥Qx8Y64GeEnb￥/ HU7405",
+              "url": ""
+            },
+            {
+              "id": "f1600cdb-f8dc-4822-a82e-9a6e12ab5597",
+              "platform_id": "9f1f494f-41d3-45c6-974f-279946ccbb33",
+              "type": "code",
+              "sort_order": 5,
+              "enabled": 1,
+              "app_url": "https://market.m.taobao.com/app/starlink/wakeup-transit/pages/download?star_id=8706&slk_force_set_request=true&alsc_exsrc=ES0008124452&scene=c4d7d382e2454264bc38c4d9f5303848",
+              "claim_url": "https://market.m.taobao.com/app/starlink/wakeup-transit/pages/download?star_id=8706&slk_force_set_request=true&alsc_exsrc=ES0008124452&scene=c4d7d382e2454264bc38c4d9f5303848",
+              "app_label": "打开淘宝",
+              "claim_label": "领取",
+              "action_mode": "none",
+              "action_label": null,
+              "text": null,
+              "label": "爆品好价",
+              "value": "￥TpDl6gH2MQC￥/ HU7405",
               "url": ""
             }
           ]
