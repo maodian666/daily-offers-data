@@ -1,6 +1,6 @@
 {
-  "version": 54,
-  "updated_at": "2026-11-23T12:07:43.832Z",
+  "version": 55,
+  "updated_at": "2026-11-23T12:11:40.036Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -449,6 +449,13 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1c8883b2-cfcd-40b3-adf2-4be1581a31f4",
+      "name": "业务集合页",
+      "sort_order": 4,
+      "enabled": 1,
+      "platforms": []
     }
   ],
   "independent_platforms": [],
