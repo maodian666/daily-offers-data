@@ -1,6 +1,6 @@
 {
-  "version": 51,
-  "updated_at": "2026-11-23T12:03:09.740Z",
+  "version": 52,
+  "updated_at": "2026-11-23T12:04:07.366Z",
   "site": {
     "id": "site-daily-offers",
     "site_key": "daily-offers",
@@ -368,6 +368,15 @@
               "url": "https://1.yoourl.com/link/10006956ae60adadd2971000e8YsdOAS"
             }
           ]
+        },
+        {
+          "id": "116e9c1a-b500-44b5-bdb0-643f10dfe814",
+          "category_id": "90562535-2601-49b9-916b-9f4d02e891d2",
+          "name": "花小猪",
+          "preview_limit": 3,
+          "sort_order": 1,
+          "enabled": 1,
+          "items": []
         }
       ]
     },
